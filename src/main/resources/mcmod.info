@@ -1,0 +1,16 @@
+[
+{
+  "modid": "icarus",
+  "name": "Icarus Mod",
+  "description": "Prevents flying when an enemy has targeted you.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RWTema"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
